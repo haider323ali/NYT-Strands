@@ -1,0 +1,1 @@
+<a href="https://nytstrands.org/">NYT Strands</a> is a fascinating word puzzle in which the goal is to fill a patterned grid measuring 6x8 with words of a certain theme. Not only can the words be straight but also they can curve, which adds a creative twist to the puzzle.
